@@ -1,5 +1,3 @@
-
-
 /////////////////////////////////////////////////
 // Elements
 const labelWelcome = document.querySelector(".welcome");
@@ -48,7 +46,7 @@ const changePin = document.querySelector(".change--pin");
 let accounts, uri, isLogin;
 
 const renderAccounts = async () => {
-  uri = "http://localhost:3000/accounts/";
+  uri = "https://cbcbank.bscebeci.de/accounts";
   const res = await fetch(uri);
 
   accounts = await res.json();
