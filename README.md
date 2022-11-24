@@ -33,3 +33,7 @@
 - [Vercel Link](https://cbcbank-app.vercel.app/)
 
 - [Json-server Hetzner Link](https://cbcbank.bscebeci.de/accounts)
+
+## To test this App
+
+- username : ks, password : 1111
