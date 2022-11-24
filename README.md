@@ -28,4 +28,8 @@
 
 - [ ] $ and € accounts can send money eachother with currency APIdata und excahenge money to this currency..
 
-## Links
+## Link
+
+- [Vercel Link](https://cbcbank-app.vercel.app/)
+
+- [Json-server Hetzner Link](https://cbcbank.bscebeci.de/accounts)
