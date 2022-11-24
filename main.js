@@ -1,6 +1,4 @@
-// import { accounts } from "./accounts.js";
 
-// console.log(accounts);
 
 /////////////////////////////////////////////////
 // Elements

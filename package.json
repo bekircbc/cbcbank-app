@@ -7,8 +7,8 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "api": "json-server --watch ./data/db.json --port 3000",
-    "start": "run-p api dev"
+    "start": "run-p api dev",
+    "api": "node jsonserver.js"
   },
   "devDependencies": {
     "npm-run-all": "^4.1.5",
