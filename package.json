@@ -1,0 +1,21 @@
+{
+  "name": "cbcbank-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "api": "json-server --watch ./data/db.json --port 3000",
+    "start": "run-p api dev"
+  },
+  "devDependencies": {
+    "npm-run-all": "^4.1.5",
+    "run-all": "^1.0.1",
+    "vite": "^3.2.3"
+  },
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
