@@ -8,25 +8,25 @@
 
 - GET, PATCH or DELETE this data in JSON Server.
 
-> > > [x] request kredit
+        [x] request kredit
 
-> > > [x] transfer money
+        [x] transfer money
 
-> > > [x] change pin
+        [x] change pin
 
-> > > [x] delete account
+        [x] delete account
 
 ## Not finished yet
 
-- [ ] Filiale/ATM finder with geolocation..
+        [ ] Filiale/ATM finder with geolocation..
 
-- [ ] Single Page Aplication mit React.
+        [ ] Single Page Aplication with React.
 
-- [ ] App with React Native..
+        [ ] App with React Native..
 
-- [ ] user-layer : berater, customer, admin, etc.
+        [ ] user-layer : berater, customer, admin, etc.
 
-- [ ] $ and € accounts can send money eachother with currency APIdata und excahenge money to this currency..
+        [ ] $ and € accounts can send money eachother with currency APIdata und excahenge money to this currency..
 
 ## Link
 
@@ -37,3 +37,8 @@
 ## To test this App
 
 - username : ks, password : 1111
+
+- Testing trasfer money
+
+      transfer to : Harold Finch
+      IBAN : DE4936
