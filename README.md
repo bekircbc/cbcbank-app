@@ -18,6 +18,8 @@
 
 ## Not finished yet
 
+- This features are not finished yet.. 
+
         [ ] Filiale/ATM finder with geolocation..
 
         [ ] Single Page Aplication with React.
@@ -36,9 +38,12 @@
 
 ## To test this App
 
-- username : ks, password : 1111
+- To see user details
+
+        username : ks 
+        password : 1111
 
 - Testing trasfer money
 
-      transfer to : Harold Finch
-      IBAN : DE4936
+        transfer to : Harold Finch
+        IBAN : DE4936
